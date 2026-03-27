@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Delicious Bites",
+    "location": "New York, NY",
+    "pricePerPlate": 25,
+    "cuisines": [
+      "Italian",
+      "American"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "name": "Spice Route",
+    "location": "Chicago, IL",
+    "pricePerPlate": 30,
+    "cuisines": [
+      "Indian",
+      "Chinese"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "3",
+    "name": "Sushi Master",
+    "location": "Los Angeles, CA",
+    "pricePerPlate": 45,
+    "cuisines": [
+      "Japanese",
+      "Seafood"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "1774619516386",
+    "name": "Prem Resto And Bar",
+    "location": "Pune, MH",
+    "pricePerPlate": 30,
+    "cuisines": [
+      "Italian"
+    ],
+    "rating": 3.5
+  },
+  {
+    "id": "1774622311279",
+    "name": "Raju Resto",
+    "location": "Pune, MH",
+    "pricePerPlate": 40,
+    "cuisines": [
+      "American"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "1774622434751",
+    "name": "Das Restaurant",
+    "location": "Kolhapur, MH",
+    "pricePerPlate": 30,
+    "cuisines": [
+      "Marathi"
+    ],
+    "rating": 4
+  },
+  {
+    "id": "1774623977835",
+    "name": "Maratha Darbar",
+    "location": "Pune, MH",
+    "pricePerPlate": 30,
+    "cuisines": [
+      "Maharhastrian"
+    ],
+    "rating": 5
+  },
+  {
+    "id": "1774632264459",
+    "name": "Madhuban",
+    "location": "Mumbai, MH",
+    "pricePerPlate": 50,
+    "cuisines": [
+      "Italian",
+      "Chinese"
+    ],
+    "rating": 4
+  }
+]
